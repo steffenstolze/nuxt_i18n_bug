@@ -1,0 +1,4 @@
+[
+  { "code": "de", "iso": "de-DE", "name": "Deutsch", "isCatchallLocale": true },
+  { "code": "en", "iso": "en-GB", "name": "English" }
+]

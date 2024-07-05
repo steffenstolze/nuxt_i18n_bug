@@ -1,0 +1,5 @@
+{
+	"index": { "de": "/", "en": "/" },
+	"products/index": { "de": "/produkte", "en": "/products" },
+	"products/[id]": { "de": "/produkte/[id]", "en": "/products/[id]" }
+}
